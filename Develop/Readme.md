@@ -1,4 +1,4 @@
-# First clone my repo, then do npm install followed by npm inquirer. Then doing node index.js
+# Readme Generator
   ## Table of Contents
   -[Description](#description)
   -[Installation](#installation)
@@ -10,23 +10,23 @@
   
 
   ## Description
-  sdfdsf
+  With this repository you are able to create a Readme File
 
   ## Installation
-  sdfdsf
+  First off get a copy of my repo then you would do NPM install then npm inquirer
 
   ## Usage
-  sdfdsf
+  to create Readme file
 
   ## Contribution 
-  sdfsdf
+  no
 
   ## Test
-  sdfdsf
+  to run it first follow the install instructions then to test it do node index.js
 
   ## Questions
-  For any questions or inquires you can reach me at Email: sdf
-  or visit my Github [sdf](https://github.com/sdf)
+  For any questions or inquires you can reach me at Email: christopher.gonzalez98@gmail.com
+  or visit my Github [chrisjg19](https://github.com/chrisjg19)
 
   ''
   ![Github license](https://img.shields.io/badge/License-GNU-blue.svg)
