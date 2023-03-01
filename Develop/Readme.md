@@ -1,4 +1,4 @@
-# sdf
+# First clone my repo, then do npm install followed by npm inquirer. Then doing node index.js
   ## Table of Contents
   -[Description](#description)
   -[Installation](#installation)
@@ -13,22 +13,22 @@
   sdfdsf
 
   ## Installation
-  sdf
+  sdfdsf
 
   ## Usage
-  dsf
+  sdfdsf
 
   ## Contribution 
-  dsf
+  sdfsdf
 
   ## Test
-  sdf
+  sdfdsf
 
   ## Questions
   For any questions or inquires you can reach me at Email: sdf
-  or visit my Github [sdfdsf](https://github.com/sdfdsf)
+  or visit my Github [sdf](https://github.com/sdf)
 
-  
-  ![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
- ' ![Github license](https://opensource.org/licenses/MIT)'
+  ''
+  ![Github license](https://img.shields.io/badge/License-GNU-blue.svg)
+ ' ![Github license](https://opensource.org/licenses/GNU)'
 
