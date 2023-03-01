@@ -30,4 +30,4 @@
 
   
   ![Github license](https://img.shields.io/badge/License-GNU-blue.svg)
- ' ![Github license](https://opensource.org/licenses/GNU)'
+  ![Github license](https://opensource.org/licenses/GNU)
